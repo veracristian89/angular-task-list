@@ -102,5 +102,7 @@
       }
     }
   },
-  "defaultProject": "task-list"
+  "cli": {
+    "analytics": false
+  }
 }
